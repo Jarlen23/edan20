@@ -1,0 +1,11 @@
+*.joblib
+*.txt
+*.DS_Store
+*.pt
+*.json
+*.jsonl
+*.tar
+*.csv
+*.bz2
+labs_2026/sentences.tar.bz2
+labs_2026/sentences/
